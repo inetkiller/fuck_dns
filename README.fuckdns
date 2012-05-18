@@ -1,3 +1,8 @@
 Info : Fuck GFW(Great Fire Wall of China)
 
 Details : Use c language, redirect DNS packet using tcp connection.
+
+Use : This program based on c++ language, build on vs2008 platform.
+	To get the executable file, create a project using vs2008,
+	and add this source file, then you can build it and visit
+	the website blocked by GFW.
